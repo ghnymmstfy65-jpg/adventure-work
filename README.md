@@ -27,11 +27,3 @@ Designed interactive dashboards for sales, student performance, and attendance t
 - Educational content creation  
 - Report formatting and layout for academic and business use
 
----
-
-## 📬 Contact  
-Feel free to reach out for collaboration, feedback, or inquiries via GitHub or email.
-
----
-
-Would you like me to help you format this for your GitHub page or add links to specific projects?
